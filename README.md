@@ -1,4 +1,5 @@
-# Hey there :wave:
+<h1 align="center">Hi 👋, I'm Priyanka S</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -8,8 +9,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Priyanka S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
 
 - 📝 I regularly write articles on [https://medium.com/@priyankadaida](https://medium.com/@priyankadaida)
 
