@@ -8,8 +8,10 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
+
 ## About me
-    Hi there 👋. I’m Priya, a passionate and results-driven Frontend Developer with over a decade of experience in building intuitive, high-quality web and mobile applications. With a strong background in technologies like React, Angular, and Next.js, I specialize in creating seamless user experiences and scalable solutions. Beyond my 9-to-5, I enjoy mentoring junior developers, exploring emerging technologies, and working on personal projects to stay ahead in the ever-evolving tech landscape. I also find joy in sharing my knowledge through blogs and open-source contributions. When I’m not coding, you’ll likely find me playing badminton, exploring nature, or spending time with my family. Oh, and occasionally pondering life’s deeper mysteries!
+
+Hi there 👋. I’m Priya, a passionate and results-driven Frontend Developer with over a decade of experience in building intuitive, high-quality web and mobile applications. With a strong background in technologies like React, Angular, and Next.js, I specialize in creating seamless user experiences and scalable solutions. Beyond my 9-to-5, I enjoy mentoring junior developers, exploring emerging technologies, and working on personal projects to stay ahead in the ever-evolving tech landscape. I also find joy in sharing my knowledge through blogs and open-source contributions. When I’m not coding, you’ll likely find me playing badminton, exploring nature, or spending time with my family. Oh, and occasionally pondering life’s deeper mysteries!
 
 
 - 📝 I regularly write articles on [https://medium.com/@priyankadaida](https://medium.com/@priyankadaida)
