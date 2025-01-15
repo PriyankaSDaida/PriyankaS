@@ -1,3 +1,13 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Priyanka S</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
